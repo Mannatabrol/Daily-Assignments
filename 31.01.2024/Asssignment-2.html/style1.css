@@ -1,0 +1,37 @@
+.h{
+    color: black; 
+    font-size: 24px;
+     background: red;
+}
+#p{
+    background-color: yellow; 
+    padding: 10px;
+}
+.div1{
+
+border: 1px solid black;
+}
+#h{
+color: blue;
+}
+.l1
+{
+    font-weight: bold;
+}
+.l2{
+    font-weight: italic;
+}
+.div2{
+    border: 1px solid black; 
+    background: red;
+
+}
+#l3{
+font-weight: bold;
+}
+#l4{
+    font-weight: italic;
+}
+#p2{
+    text-align: center;
+}
