@@ -1,0 +1,82 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+    font-size: large;
+    align-items: center;
+  }
+  .container{
+    display: flex;
+    flex-direction: column;
+    width:60%;
+    margin: auto;
+  }
+  
+  .header{
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(80, 171, 227);
+    margin: 5px;
+  }
+  
+  
+  .main-sec{
+    display: flex;
+    width: 100%;
+  }
+  
+  .main-sec .sec-left{
+    width: 30%;
+  }
+  
+  .main-sec .sec-right{
+    width: 70%;
+  }
+  
+  .main-sec .sec-left .hero{
+    height: 25vh;
+    margin: 0 5px 5px 0;
+    background-color: rgb(143, 143, 225);
+  }
+  .main-sec .sec-left .sidebar{
+    height: 35vh;
+    margin: 0 5px 5px 0;
+    background-color: rgb(61, 90, 61);
+  }
+  
+  .main-sec .sec-right .mainContent{
+    height: 35vh;
+    margin: 0 0 5px 0;
+    background-color:rgb(234, 215, 51);
+  }
+  .main-sec .sec-right .extraContent{
+    height: 25vh;
+    margin: 0 0 5px 0;
+    background-color:grey;
+  }
+  
+  .related{
+    display: flex;
+    width: 100%;
+  }
+  .related .relImages{
+    height: 20vh;
+    width: 75%;
+    margin: 0 5px 5px 0;
+    background-color: rgb(0, 252, 0);
+  }
+  .related .relPost{
+    height: 20vh;
+    margin: 0 0 5px 0;
+    width: 25%;
+    background-color: pink;
+  }
+  
+  .ftr{
+    height: 10vh;
+    width: 100%;
+    margin: 0 0 0 0;
+    background-color: rgb(255, 153, 0);
+  }
