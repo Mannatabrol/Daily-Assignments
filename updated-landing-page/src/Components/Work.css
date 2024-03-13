@@ -1,0 +1,25 @@
+.work-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .work-card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .work-card h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .work-card p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
